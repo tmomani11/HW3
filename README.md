@@ -1,12 +1,6 @@
 # HW3
-# C++ Design and Purpose
-
-C++ is a general-purpose programming language designed by **Bjarne Stroustrup** in the early 1980s. It was created with the goal of extending the C programming language to support both high-level abstraction and low-level efficiency, making it suitable for large-scale software development as well as performance-critical applications.
-
----
 ## LLM used ChatGPT
-
-
+---
 ## Question Asked
 - [Why C++ Was Based on C](#why-c-was-based-on-c)
 - [Object-Oriented Programming in C++](#object-oriented-programming-in-c)
