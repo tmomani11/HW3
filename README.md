@@ -44,7 +44,7 @@ I used ChatGPT to explore the  reasoning behind the creation of C++, even though
 
 ### Question 3  
 - **Me:**  
-  - Was there a significant demand for these features, or was C++ a visionary step by its creator?  
+  - Was there a significant demand for these features, or was C++ a visionary step ?  
 - **ChatGPT:**  
   - C++ was both a response to a clear demand and a visionary step forward. In the 1980s, software development was becoming more complex, and programmers needed tools that could help them manage larger projects. C++ fulfilled this demand by introducing object-oriented principles that were sorely needed for large-scale software engineering.
 
@@ -54,7 +54,7 @@ I used ChatGPT to explore the  reasoning behind the creation of C++, even though
 
 ### Question 4  
 - **Me:**  
-  - How did the development of C++ impact the evolution of other programming languages?  
+  - How did the development of C++ impact the use of other programming languages?  
 - **ChatGPT:**  
   - C++ had a significant impact on the development of later programming languages. By introducing object-oriented programming to a powerful system-level language, it paved the way for languages like Java and C#. Both of these languages borrowed heavily from C++'s syntax and OOP concepts but aimed to simplify some of the complexities of C++.
 
