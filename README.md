@@ -10,14 +10,6 @@ I used ChatGPT to explore the  reasoning behind the creation of C++, even though
 
 ---
 
-### Pre-Prompt  
-- **Me:**  
-  - You are a computer science historian. I’m interested in discussing why C++ was developed if C was already a powerful language. Are you ready to explore this with me?  
-- **ChatGPT:**  
-  - Absolutely, I’m ready! The evolution from C to C++ is a fascinating story in programming language history. Let’s explore the motivations behind C++ and how it addressed challenges that C couldn’t.
-
----
-
 ### Question 1  
 - **Me:**  
   - Why was C++ created when C already existed?  
