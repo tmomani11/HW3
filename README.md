@@ -69,6 +69,7 @@ The development of C++ was a response to the growing needs of software developer
 
 - [Bjarne Stroustrup's C++ Design and Programming Rules](https://ptgmedia.pearsoncmg.com/images/art_stroustrup_2005/elementlinks/rules.pdf)
 
+- [The Design of the C++ Programming Language](https://dl.acm.org/doi/pdf/10.1145/97945.97947)
 
 - [ISO C++ Standards](https://isocpp.org/std/the-standard).
 
