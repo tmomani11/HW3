@@ -67,7 +67,7 @@ The development of C++ was a response to the growing needs of software developer
 
 ---
 
-- [The Design and Evolution of C++]([https://www.academia.edu/download/53914190/Cpp_in_2005_DnE2005.pdf](https://d1wqtxts1xzle7.cloudfront.net/53914190/Cpp_in_2005_DnE2005-libre.pdf?1500512446=&response-content-disposition=inline%3B+filename%3DCpp_in_2005_DnE2005.pdf&Expires=1726290590&Signature=RJrNuHj0Ns5lariBpdH9H7EC8cZ287lD05mbbs5lxxHmlfacGu4LNfz96qjY3qTvtfKUnP1J2fuf3k22lo-uYkD6tYFWhXZLVP1YCEuAoNnn4Hg4THNr9QlttD2WqkaEmBJv2iZ1U2Z0MQNb-VKKJpRCjhfIeY0xjPT74hNvOZ0HaMgizr5b1V8JZYXKjsCfSIm874eHZ6qbukvOXdHKTj0M7uLy3aUJaYue8D8Jvp-Oh3KAqG~FRk6t~J3Ogc3~R90rWueuQLUk7XNq3oNFljAm8wQy64gUnE4wd5T9P4vJ3XxsxAWSbnJHRezxJkkXuj7I3fAqBIniWk~KoJcsqA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)).  
+- [The Design and Evolution of C++]((https://d1wqtxts1xzle7.cloudfront.net/53914190/Cpp_in_2005_DnE2005-libre.pdf?1500512446=&response-content-disposition=inline%3B+filename%3DCpp_in_2005_DnE2005.pdf&Expires=1726290590&Signature=RJrNuHj0Ns5lariBpdH9H7EC8cZ287lD05mbbs5lxxHmlfacGu4LNfz96qjY3qTvtfKUnP1J2fuf3k22lo-uYkD6tYFWhXZLVP1YCEuAoNnn4Hg4THNr9QlttD2WqkaEmBJv2iZ1U2Z0MQNb-VKKJpRCjhfIeY0xjPT74hNvOZ0HaMgizr5b1V8JZYXKjsCfSIm874eHZ6qbukvOXdHKTj0M7uLy3aUJaYue8D8Jvp-Oh3KAqG~FRk6t~J3Ogc3~R90rWueuQLUk7XNq3oNFljAm8wQy64gUnE4wd5T9P4vJ3XxsxAWSbnJHRezxJkkXuj7I3fAqBIniWk~KoJcsqA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)).  
  
 
 - [ISO C++ Standards](https://isocpp.org/std/the-standard).
