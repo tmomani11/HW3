@@ -74,7 +74,7 @@ The development of C++ was a response to the growing needs of software developer
 
 - [Ellis, M., & Stroustrup, B.](https://scholar.google.com/scholar?q=The+Annotated+C%2B%2B+Reference+Manual) (1990). *The Annotated C++ Reference Manual*. Addison-Wesley.
 
-- [Lippman, S. B.](https://scholar.google.com/scholar?q=Inside+the+C%2B%2B+Object+Model) (1996). *Inside the C++ Object Model*. Addison-Wesley.
+- [Lippman, S. B.]([[https://scholar.google.com/scholar?q=Inside+the+C%2B%2B+Object+Model](https://www.academia.edu/download/62512640/inside.the.c__.object.model20200328-128194-153kmjx.pdf)](https://d1wqtxts1xzle7.cloudfront.net/62512640/inside.the.c__.object.model20200328-128194-153kmjx-libre.pdf?1586007732=&response-content-disposition=inline%3B+filename%3DInside_the_C_Object_Model_Inside_the_C_O.pdf&Expires=1726290389&Signature=NOmI1rt~en70qij9KwodH6p6-FU5BziRzlIDdMj5I2Pdi4QMPOiaRdY10hIGzASP70CLaPzAiyS38J-ox2pB-rWLSmJmfq~RPW7Tc4XDEhRA6NirJ~GgLI7tTT3ezrgg9i6t6MUNIbPqOhqxlSl0z516Lhc0S2RljjJt~X0jr~QlmFdIWzWqdMZ7BGC0kNm0P1Lsig0HAaHj~RY~Xiujr1Ap9NzDcFh4rJDRX9AJRKLoHyj2u1zd9Axybz~bprKmgnKMJAfSEqTW1WEtS3rSY~e59Y7WD~sNOM-Spy39wiHsrxSTmPUBo4lDBStXTvU6MB8ZtGRWkcRgnn1W2698TA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)) (1996). *Inside the C++ Object Model*. Addison-Wesley.
 
 - [Budd, T. A.](https://scholar.google.com/scholar?q=An+Introduction+to+Object-Oriented+Programming) (1991). *An Introduction to Object-Oriented Programming*. Addison-Wesley.
 
