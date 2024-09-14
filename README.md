@@ -69,7 +69,7 @@ The development of C++ was a response to the growing needs of software developer
 
 ### References
 
-1. **Stroustrup, B.** (1994). *The Design and Evolution of C++*. Addison-Wesley.  
+1. **The Design and Evolution of C++*. (https://www.academia.edu/download/53914190/Cpp_in_2005_DnE2005.pdf).  
    Available on [Google Scholar](https://scholar.google.com/scholar?q=The+Design+and+Evolution+of+C++).
 
 2. **ISO C++ Standards** – The official documentation on the development and features of C++ standards.  
