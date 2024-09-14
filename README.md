@@ -67,21 +67,15 @@ The development of C++ was a response to the growing needs of software developer
 
 ---
 
-### References
+- [The Design and Evolution of C++](https://www.academia.edu/download/53914190/Cpp_in_2005_DnE2005.pdf).  
+  Available on [Google Scholar](https://scholar.google.com/scholar?q=The+Design+and+Evolution+of+C++).
 
-1. **The Design and Evolution of C++*. (https://www.academia.edu/download/53914190/Cpp_in_2005_DnE2005.pdf).  
-   Available on [Google Scholar](https://scholar.google.com/scholar?q=The+Design+and+Evolution+of+C++).
+- [ISO C++ Standards](https://isocpp.org/std/the-standard).
 
-2. **ISO C++ Standards** – The official documentation on the development and features of C++ standards.  
-   Available at the [ISO C++ website](https://isocpp.org/std/the-standard).
+- [Ellis, M., & Stroustrup, B.](https://scholar.google.com/scholar?q=The+Annotated+C%2B%2B+Reference+Manual) (1990). *The Annotated C++ Reference Manual*. Addison-Wesley.
 
-3. **Ellis, M., & Stroustrup, B.** (1990). *The Annotated C++ Reference Manual*. Addison-Wesley.  
-   Available on [Google Scholar](https://scholar.google.com/scholar?q=The+Annotated+C%2B%2B+Reference+Manual).
+- [Lippman, S. B.](https://scholar.google.com/scholar?q=Inside+the+C%2B%2B+Object+Model) (1996). *Inside the C++ Object Model*. Addison-Wesley.
 
-4. **Lippman, S. B.** (1996). *Inside the C++ Object Model*. Addison-Wesley.  
-   Available on [Google Scholar](https://scholar.google.com/scholar?q=Inside+the+C%2B%2B+Object+Model).
-
-5. **Budd, T. A.** (1991). *An Introduction to Object-Oriented Programming*. Addison-Wesley.  
-   Available on [Google Scholar](https://scholar.google.com/scholar?q=An+Introduction+to+Object-Oriented+Programming).
+- [Budd, T. A.](https://scholar.google.com/scholar?q=An+Introduction+to+Object-Oriented+Programming) (1991). *An Introduction to Object-Oriented Programming*. Addison-Wesley.
 
 ---
